@@ -9,4 +9,4 @@ Desweiteren wurde im Rahmen des Projekts ein Erklärvideo erstellt, mit dem die 
 
 Das Erklärvideo kann hier abgerufen werden: https://www.youtube.com/watch?v=GsNp37Y7YcQ
 
-Bei Fragen oder Anmerkungen können Sie mich gerne kontaktieren
+Bei Fragen oder Anmerkungen können Sie mich gerne kontaktieren.

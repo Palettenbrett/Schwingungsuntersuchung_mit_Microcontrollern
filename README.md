@@ -1,7 +1,7 @@
 # Schwingungsuntersuchung_mit_Microcontrollern
 Untersuchen des TensorFlow Frameworks und Erstellen eines Modells zur Schwingungsuntersuchung mit µControllern
 
-Dieses Repository beherbergt eine Sammlung an Programmen die für die Untersuchung von Schwingungen auf Microcontrollern benötigt werden.
+Dieses Repository beherbergt eine Sammlung an Programmen die für die Untersuchung von Schwingungen auf Microcontrollern benötigt werden.\n
 Einzelne Phasen des Programmablaufs sind entsprechend kategorisiert und man sollte sie auch in dieser Reihenfolge bearbeiten.
 Das Projekt ist eine Studienarbeit T_3101 der Dualen Hochschule Baden-Württemberg Stuttgart Campus Horb.
 Kopieren und Verbreiten der Programme sollte zuerst mit den Verantwortlichen besprochen und genemigt sein.

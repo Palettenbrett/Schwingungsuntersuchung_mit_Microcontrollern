@@ -6,5 +6,6 @@ Einzelne Phasen des Programmablaufs sind entsprechend kategorisiert und man soll
 Das Projekt ist eine Studienarbeit T_3101 der Dualen Hochschule Baden-Württemberg Stuttgart Campus Horb.
 Kopieren und Verbreiten der Programme sollte zuerst mit den Verantwortlichen besprochen und genemigt sein.
 
-Desweiteren wurde im Rahmen des Projekts ein erklärvideo erstellt, mit dem die Handhabung der Programme einfacher fallen sollte.
+Desweiteren wurde im Rahmen des Projekts ein Erklärvideo erstellt, mit dem die Handhabung der Programme einfacher fallen sollte.
+Das Erklärvideo kann hier abgerufen werden:
 Bei Fragen oder Anmerkungen können Sie mich gerne unter paulrienaecker@live.de kontaktieren oder die Programme entsprechend kommentieren.

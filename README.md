@@ -7,5 +7,5 @@ Das Projekt ist eine Studienarbeit T_3101 der Dualen Hochschule Baden-Württembe
 Kopieren und Verbreiten der Programme sollte zuerst mit den Verantwortlichen besprochen und genemigt sein.
 
 Desweiteren wurde im Rahmen des Projekts ein Erklärvideo erstellt, mit dem die Handhabung der Programme einfacher fallen sollte.
-Das Erklärvideo kann hier abgerufen werden:
+Das Erklärvideo kann hier abgerufen werden: https://www.youtube.com/watch?v=GsNp37Y7YcQ
 Bei Fragen oder Anmerkungen können Sie mich gerne unter paulrienaecker@live.de kontaktieren oder die Programme entsprechend kommentieren.

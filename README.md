@@ -1,0 +1,2 @@
+# Schwingungsuntersuchung_mit_Microcontrollern
+Untersuchen des TensorFlow Frameworks und Erstellen eines Modells zur Schwingungsuntersuchung mit µControllern
